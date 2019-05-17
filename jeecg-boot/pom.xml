@@ -189,6 +189,18 @@
 			<artifactId>autopoi-web</artifactId>
 			<version>1.0.2</version>
 		</dependency>
+		
+		
+		<dependency>
+			<groupId>com.datastax.cassandra</groupId>
+			<artifactId>cassandra-driver-core</artifactId>
+		</dependency>
+		
+		<dependency>
+		    <groupId>io.projectreactor</groupId>
+		    <artifactId>reactor-core</artifactId>
+		</dependency>
+		
 		  
 		<!-- Hibernate -->
 		<dependency>
