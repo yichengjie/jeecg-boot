@@ -1,3 +1,8 @@
+drop database jeecgboot ;
+create database jeecgboot;
+use jeecgboot;
+
+
 /*
 Navicat MySQL Data Transfer
 
